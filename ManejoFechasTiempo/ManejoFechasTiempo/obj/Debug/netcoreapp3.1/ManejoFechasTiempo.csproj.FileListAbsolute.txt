@@ -1,0 +1,13 @@
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\obj\Debug\netcoreapp3.1\ManejoFechasTiempo.csprojAssemblyReference.cache
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\obj\Debug\netcoreapp3.1\ManejoFechasTiempo.AssemblyInfoInputs.cache
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\obj\Debug\netcoreapp3.1\ManejoFechasTiempo.AssemblyInfo.cs
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\obj\Debug\netcoreapp3.1\ManejoFechasTiempo.csproj.CoreCompileInputs.cache
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\bin\Debug\netcoreapp3.1\ManejoFechasTiempo.exe
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\bin\Debug\netcoreapp3.1\ManejoFechasTiempo.deps.json
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\bin\Debug\netcoreapp3.1\ManejoFechasTiempo.runtimeconfig.json
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\bin\Debug\netcoreapp3.1\ManejoFechasTiempo.runtimeconfig.dev.json
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\bin\Debug\netcoreapp3.1\ManejoFechasTiempo.dll
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\bin\Debug\netcoreapp3.1\ManejoFechasTiempo.pdb
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\obj\Debug\netcoreapp3.1\ManejoFechasTiempo.dll
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\obj\Debug\netcoreapp3.1\ManejoFechasTiempo.pdb
+C:\Users\victor.gabardini\source\repos\ManejoFechasTiempo\ManejoFechasTiempo\obj\Debug\netcoreapp3.1\ManejoFechasTiempo.genruntimeconfig.cache

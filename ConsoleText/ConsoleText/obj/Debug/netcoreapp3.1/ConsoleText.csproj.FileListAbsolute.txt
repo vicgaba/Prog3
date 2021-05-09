@@ -1,0 +1,13 @@
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\obj\Debug\netcoreapp3.1\ConsoleText.csprojAssemblyReference.cache
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\obj\Debug\netcoreapp3.1\ConsoleText.AssemblyInfoInputs.cache
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\obj\Debug\netcoreapp3.1\ConsoleText.AssemblyInfo.cs
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\obj\Debug\netcoreapp3.1\ConsoleText.csproj.CoreCompileInputs.cache
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\bin\Debug\netcoreapp3.1\ConsoleText.exe
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\bin\Debug\netcoreapp3.1\ConsoleText.deps.json
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\bin\Debug\netcoreapp3.1\ConsoleText.runtimeconfig.json
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\bin\Debug\netcoreapp3.1\ConsoleText.runtimeconfig.dev.json
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\bin\Debug\netcoreapp3.1\ConsoleText.dll
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\bin\Debug\netcoreapp3.1\ConsoleText.pdb
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\obj\Debug\netcoreapp3.1\ConsoleText.dll
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\obj\Debug\netcoreapp3.1\ConsoleText.pdb
+C:\Users\victor.gabardini\source\repos\ConsoleText\ConsoleText\obj\Debug\netcoreapp3.1\ConsoleText.genruntimeconfig.cache

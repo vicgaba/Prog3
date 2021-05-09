@@ -1,0 +1,12 @@
+C:\Users\victor.gabardini\source\repos\Moda\Moda\bin\Debug\netcoreapp3.1\Moda.exe
+C:\Users\victor.gabardini\source\repos\Moda\Moda\bin\Debug\netcoreapp3.1\Moda.deps.json
+C:\Users\victor.gabardini\source\repos\Moda\Moda\bin\Debug\netcoreapp3.1\Moda.runtimeconfig.json
+C:\Users\victor.gabardini\source\repos\Moda\Moda\bin\Debug\netcoreapp3.1\Moda.runtimeconfig.dev.json
+C:\Users\victor.gabardini\source\repos\Moda\Moda\bin\Debug\netcoreapp3.1\Moda.dll
+C:\Users\victor.gabardini\source\repos\Moda\Moda\bin\Debug\netcoreapp3.1\Moda.pdb
+C:\Users\victor.gabardini\source\repos\Moda\Moda\obj\Debug\netcoreapp3.1\Moda.AssemblyInfoInputs.cache
+C:\Users\victor.gabardini\source\repos\Moda\Moda\obj\Debug\netcoreapp3.1\Moda.AssemblyInfo.cs
+C:\Users\victor.gabardini\source\repos\Moda\Moda\obj\Debug\netcoreapp3.1\Moda.csproj.CoreCompileInputs.cache
+C:\Users\victor.gabardini\source\repos\Moda\Moda\obj\Debug\netcoreapp3.1\Moda.dll
+C:\Users\victor.gabardini\source\repos\Moda\Moda\obj\Debug\netcoreapp3.1\Moda.pdb
+C:\Users\victor.gabardini\source\repos\Moda\Moda\obj\Debug\netcoreapp3.1\Moda.genruntimeconfig.cache
