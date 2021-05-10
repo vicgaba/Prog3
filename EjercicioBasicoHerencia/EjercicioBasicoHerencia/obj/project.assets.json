@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victor.gabardini\\source\\repos\\Prog3\\Horoscopo\\Horoscopo\\Horoscopo.csproj",
-      "projectName": "Horoscopo",
-      "projectPath": "C:\\Users\\victor.gabardini\\source\\repos\\Prog3\\Horoscopo\\Horoscopo\\Horoscopo.csproj",
+      "projectUniqueName": "C:\\Users\\victor.gabardini\\source\\repos\\Prog3\\EjercicioBasicoHerencia\\EjercicioBasicoHerencia\\EjercicioBasicoHerencia.csproj",
+      "projectName": "EjercicioBasicoHerencia",
+      "projectPath": "C:\\Users\\victor.gabardini\\source\\repos\\Prog3\\EjercicioBasicoHerencia\\EjercicioBasicoHerencia\\EjercicioBasicoHerencia.csproj",
       "packagesPath": "C:\\Users\\victor.gabardini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victor.gabardini\\source\\repos\\Prog3\\Horoscopo\\Horoscopo\\obj\\",
+      "outputPath": "C:\\Users\\victor.gabardini\\source\\repos\\Prog3\\EjercicioBasicoHerencia\\EjercicioBasicoHerencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\victor.gabardini\\AppData\\Roaming\\NuGet\\NuGet.Config",

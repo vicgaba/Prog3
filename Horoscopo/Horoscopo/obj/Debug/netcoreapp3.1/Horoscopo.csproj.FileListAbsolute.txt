@@ -11,3 +11,16 @@ C:\Users\victor.gabardini\source\repos\Horoscopo\Horoscopo\bin\Debug\netcoreapp3
 C:\Users\victor.gabardini\source\repos\Horoscopo\Horoscopo\obj\Debug\netcoreapp3.1\Horoscopo.dll
 C:\Users\victor.gabardini\source\repos\Horoscopo\Horoscopo\obj\Debug\netcoreapp3.1\Horoscopo.pdb
 C:\Users\victor.gabardini\source\repos\Horoscopo\Horoscopo\obj\Debug\netcoreapp3.1\Horoscopo.genruntimeconfig.cache
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\bin\Debug\netcoreapp3.1\Horoscopo.exe
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\bin\Debug\netcoreapp3.1\Horoscopo.deps.json
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\bin\Debug\netcoreapp3.1\Horoscopo.runtimeconfig.json
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\bin\Debug\netcoreapp3.1\Horoscopo.runtimeconfig.dev.json
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\bin\Debug\netcoreapp3.1\Horoscopo.dll
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\bin\Debug\netcoreapp3.1\Horoscopo.pdb
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\obj\Debug\netcoreapp3.1\Horoscopo.csprojAssemblyReference.cache
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\obj\Debug\netcoreapp3.1\Horoscopo.AssemblyInfoInputs.cache
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\obj\Debug\netcoreapp3.1\Horoscopo.AssemblyInfo.cs
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\obj\Debug\netcoreapp3.1\Horoscopo.csproj.CoreCompileInputs.cache
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\obj\Debug\netcoreapp3.1\Horoscopo.dll
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\obj\Debug\netcoreapp3.1\Horoscopo.pdb
+C:\Users\victor.gabardini\source\repos\Prog3\Horoscopo\Horoscopo\obj\Debug\netcoreapp3.1\Horoscopo.genruntimeconfig.cache

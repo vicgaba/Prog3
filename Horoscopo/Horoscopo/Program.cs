@@ -51,10 +51,10 @@ namespace Horoscopo
             dn = fechaNacimiento.Day;
             mn = fechaNacimiento.Month;
 
-            signo = mn - 1;
-            if (diasZodiacales[mn] < dn)
+            signo = mn - 2;
+            if (diasZodiacales[signo] < dn)
             {
-                signo = mn - 2;
+                signo += 1;
             };
 
             Console.WriteLine("Hola {0} tu signo es {1}", nombre, signosNombres[signo]);

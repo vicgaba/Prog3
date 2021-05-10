@@ -1,0 +1,13 @@
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\obj\Debug\netcoreapp3.1\EjercicioBasicoHerencia.csprojAssemblyReference.cache
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\obj\Debug\netcoreapp3.1\EjercicioBasicoHerencia.AssemblyInfoInputs.cache
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\obj\Debug\netcoreapp3.1\EjercicioBasicoHerencia.AssemblyInfo.cs
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\obj\Debug\netcoreapp3.1\EjercicioBasicoHerencia.csproj.CoreCompileInputs.cache
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\bin\Debug\netcoreapp3.1\EjercicioBasicoHerencia.exe
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\bin\Debug\netcoreapp3.1\EjercicioBasicoHerencia.deps.json
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\bin\Debug\netcoreapp3.1\EjercicioBasicoHerencia.runtimeconfig.json
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\bin\Debug\netcoreapp3.1\EjercicioBasicoHerencia.runtimeconfig.dev.json
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\bin\Debug\netcoreapp3.1\EjercicioBasicoHerencia.dll
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\bin\Debug\netcoreapp3.1\EjercicioBasicoHerencia.pdb
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\obj\Debug\netcoreapp3.1\EjercicioBasicoHerencia.dll
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\obj\Debug\netcoreapp3.1\EjercicioBasicoHerencia.pdb
+C:\Users\victor.gabardini\source\repos\Prog3\EjercicioBasicoHerencia\EjercicioBasicoHerencia\obj\Debug\netcoreapp3.1\EjercicioBasicoHerencia.genruntimeconfig.cache
